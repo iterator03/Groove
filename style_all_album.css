@@ -1,0 +1,12 @@
+#head_text{
+	font-family: 'Rye';
+	text-align:center;
+}
+
+#cont{
+	background-color:#05b7b7;
+	
+	padding-top:20px;
+	
+	border-radius:2px;
+}

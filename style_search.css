@@ -1,0 +1,13 @@
+#head_text{
+	font-family: 'Rye';
+	text-align:center;
+}
+
+#cont{
+	background-color:#05b7b7;
+	width:60%;
+	padding-top:20px;
+	padding-left:40px;
+	padding-right:40px;
+	border-radius:2px;
+}
